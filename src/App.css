@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.app {
+  padding: 30px;
+  background-color: #848586;
+}
+.todo {
+  display: flex;
+  align-items: center;
+  font-size: 18px;
+  justify-content: space-between;
+}
